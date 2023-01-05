@@ -1,2 +1,2 @@
 # Python-Small-Programs
-This repository is created only for small python programs
+Mini Programs are included in this Repository
